@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **PHP, Laravel, JavaScript, React, VueJs, MySQL and MongoDB**
+- 💬 Ask me about **PHP and Laravel, JavaScript and React, VueJs, MySQL and MongoDB**
 
 - 📫 How to reach me **chaouniismail4@gmail.com**
 
