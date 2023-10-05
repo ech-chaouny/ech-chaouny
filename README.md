@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **PHP and Laravel, JavaScript and React, VueJs, MySQL and MongoDB**
 
+- 👨‍💻 All of my projects are available here
+
 - 📫 How to reach me **chaouniismail4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
