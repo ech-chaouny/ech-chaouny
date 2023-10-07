@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **advanced e-learning platform**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Flutter & Dart**
 
 - 💬 Ask me about **PHP and Laravel, JavaScript and React, VueJs, MySQL and MongoDB**
 
