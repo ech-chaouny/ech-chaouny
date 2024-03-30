@@ -10,14 +10,18 @@
 <h3 align="left">Skills:</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="0.5" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="0.5" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <img width="0.5" />
   <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+  <img width="0.5" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
 </div>
