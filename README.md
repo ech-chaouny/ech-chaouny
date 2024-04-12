@@ -3,7 +3,7 @@
 
 <h3 align="left">Socials</h3>
 <div align="left">
-<a href="https://www.linkedin.com/in/ismail-ech-chaouny-924399267" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
+<a href="https://www.linkedin.com/in/ismail-ech-chaouny" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
 <a href="https://www.instagram.com/ismael.uny" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30" alt="instagram logo"  /></a>
 </div>
 
