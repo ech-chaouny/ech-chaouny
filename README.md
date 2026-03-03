@@ -1,4 +1,4 @@
-<h1 align="left">Hi, My name is Ismail Ech-chaouny😄</h1>
+<h1 align="left">Hi, My name is Ismail Ech-chaouny 😄</h1>
 <p align="left">I am a Front-End Developer based in Casablanca - Morocco</p>
 
 <h3 align="left">Socials</h3>
